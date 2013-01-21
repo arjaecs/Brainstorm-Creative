@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_seccion" value="name:idseccion;datatype:int,name:nombreseccion;datatype:string,name:imagenseccion;datatype:string,name:imagencontenudoseccion;datatype:string,name:textoseccion;datatype:blob" />
+	<infoitem key="UD_personal" value="name:idpersonal;datatype:int,name:nombrepersonal;datatype:string,name:imagenpersonal;datatype:string,name:textopersonal;datatype:blob" />
+</info>

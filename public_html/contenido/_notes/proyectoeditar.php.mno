@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cliente" value="name:id_cliente;datatype:int,name:cliente;datatype:string,name:nombrecorto_cliente;datatype:string,name:url_cliente;datatype:string,name:actualizado;datatype:timestamp" />
+	<infoitem key="UD_proyecto" value="name:id_proyecto;datatype:int,name:cliente_proyecto;datatype:int,name:proyecto;datatype:string,name:nombrecorto_proyecto;datatype:string,name:descripcion_proyecto;datatype:blob,name:fecha_proyecto;datatype:datetime" />
+</info>

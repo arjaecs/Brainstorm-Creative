@@ -1,0 +1,4 @@
+AuthUserFile /home/brainstorm/public_html/contenido/.htpasswd
+AuthType Basic
+AuthName "brainstorm"
+require valid-user

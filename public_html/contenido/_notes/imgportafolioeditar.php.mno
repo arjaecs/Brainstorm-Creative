@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cliente" value="name:id_cliente;datatype:int,name:cliente;datatype:string,name:nombrecorto_cliente;datatype:string,name:url_cliente;datatype:string,name:actualizado;datatype:timestamp" />
+	<infoitem key="UD_proyecto" value="name:id_proyecto;datatype:int,name:cliente_proyecto;datatype:int,name:proyecto;datatype:string,name:nombrecorto_proyecto;datatype:string,name:descripcion_proyecto;datatype:blob,name:fecha_proyecto;datatype:datetime" />
+	<infoitem key="UD_archivo_proyecto" value="name:id_proyecto;datatype:int,name:cliente_proyecto;datatype:int,name:proyecto;datatype:string,name:nombrecorto_proyecto;datatype:string,name:descripcion_proyecto;datatype:blob,name:fecha_proyecto;datatype:datetime" />
+	<infoitem key="UD_generos" value="name:id_genero;datatype:int,name:genero;datatype:string" />
+	<infoitem key="UD_imgeditar" value="name:id_imgportafolio;datatype:int,name:cliente_imgportafolio;datatype:int,name:proyecto_imgportafolio;datatype:int,name:genero_imgportafolio;datatype:int,name:titulo_imgportafolio;datatype:string,name:imagen_imgportafolio;datatype:string,name:descripcion_imgportafolio;datatype:blob,name:formato_imgportafolio;datatype:string,name:id_cliente;datatype:int,name:cliente;datatype:string,name:nombrecorto_cliente;datatype:string,name:url_cliente;datatype:string,name:actualizado;datatype:timestamp,name:id_genero;datatype:int,name:genero;datatype:string,name:id_proyecto;datatype:int,name:cliente_proyecto;datatype:int,name:proyecto;datatype:string,name:nombrecorto_proyecto;datatype:string,name:descripcion_proyecto;datatype:blob,name:fecha_proyecto;datatype:datetime" />
+</info>

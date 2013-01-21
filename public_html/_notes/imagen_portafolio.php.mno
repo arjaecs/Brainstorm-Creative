@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_imagen_portafolio" value="name:id_imgportafolio;datatype:int,name:cliente_imgportafolio;datatype:int,name:proyecto_imgportafolio;datatype:int,name:genero_imgportafolio;datatype:int,name:titulo_imgportafolio;datatype:string,name:imagen_imgportafolio;datatype:string,name:descripcion_imgportafolio;datatype:blob,name:formato_imgportafolio;datatype:string,name:id_cliente;datatype:int,name:cliente;datatype:string,name:nombrecorto_cliente;datatype:string,name:url_cliente;datatype:string,name:actualizado;datatype:timestamp,name:id_proyecto;datatype:int,name:cliente_proyecto;datatype:int,name:proyecto;datatype:string,name:nombrecorto_proyecto;datatype:string,name:descripcion_proyecto;datatype:blob,name:fecha_proyecto;datatype:datetime,name:id_genero;datatype:int,name:genero;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_seccion" value="name:idseccion;datatype:int,name:nombreseccion;datatype:string,name:imagenseccion;datatype:string,name:imagencontenudoseccion;datatype:string,name:textoseccion;datatype:blob" />
+	<infoitem key="UD_clientes" value="name:id_cliente;datatype:int,name:cliente;datatype:string,name:nombrecorto_cliente;datatype:string,name:url_cliente;datatype:string,name:actualizado;datatype:timestamp" />
+</info>

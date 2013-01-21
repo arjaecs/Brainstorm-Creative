@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_seccion" value="name:idseccion;datatype:int,name:nombreseccion;datatype:string,name:imagenseccion;datatype:string,name:imagencontenudoseccion;datatype:string,name:textoseccion;datatype:blob" />
+	<infoitem key="UD_portafolio" value="name:id_proyecto;datatype:int,name:cliente_proyecto;datatype:int,name:proyecto;datatype:string,name:nombrecorto_proyecto;datatype:string,name:descripcion_proyecto;datatype:blob,name:fecha_proyecto;datatype:datetime,name:id_cliente;datatype:int,name:cliente;datatype:string,name:nombrecorto_cliente;datatype:string,name:url_cliente;datatype:string,name:actualizado;datatype:timestamp" />
+	<infoitem key="UD_clientes" value="name:id_cliente;datatype:int,name:cliente;datatype:string,name:nombrecorto_cliente;datatype:string,name:url_cliente;datatype:string,name:actualizado;datatype:timestamp" />
+</info>
